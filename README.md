@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **vue && go**
 
-- 📝 I regularly write articles on [happi0.gitee.io](happi0.gitee.io)
+- 📝 I regularly write articles on [happi0.gitee.io](http://happi0.gitee.io)
 
 - 📫 How to reach me **notalwaysthereforme@gmail.com**
 
