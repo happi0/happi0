@@ -1,14 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm happi0</h1>
-<h3 align="center">A junior in Information Security major of CUIT, and a member of D0g3 && Dest0g3.</h3>
-
-- 🔭 I’m currently working on **vue && go**
-
-- 📝 I regularly write articles on [happi0.gitee.io](http://happi0.gitee.io)
-
-- 📫 How to reach me **notalwaysthereforme@gmail.com**
-
-- ⚡ Fun fact **I love sleeping && eating.**
+<h3 align="center">Sleep master.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
